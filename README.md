@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico Masnovo</h1>
 <h3 align="center">Sr. Software Engineer Manager</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicomasnovo" alt="nicomasnovo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicomasnovo&theme=tokyonight" alt="nicomasnovo" /></a> </p>
 
 - 🏢 Currently employed at **BCI - MACH**.
 
@@ -36,12 +36,9 @@
     </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomasnovo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nicomasnovo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicomasnovo&show_icons=true&locale=en&theme=tokyonight" alt="nicomasnovo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicomasnovo&theme=tokyonight" alt="nicomasnovo" /></p>
 
 ## Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomasnovo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nicomasnovo" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicomasnovo&theme=tokyonight&layout=compact" alt="nicomasnovo" />
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicomasnovo&theme=tokyonight"></img>
 
