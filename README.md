@@ -40,8 +40,6 @@
     <tr>
         <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomasnovo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nicomasnovo" />
               </td>
-    </tr>
-    <tr>
         <td>
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicomasnovo&theme=tokyonight"/>
         </td>
