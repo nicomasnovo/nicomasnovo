@@ -6,10 +6,8 @@
 - 🏢 Currently employed at **BCI - MACH**.
 
 <h3 align="left">Connect with me:</h3>
-[BADGE_INSTAGRAM]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
-[![BADGE_LINKEDIN]](https://linkedin.com/in/nicolás-masnovo)
-
+<a href="https://linkedin.com/in/nicolás-masnovo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <table>
     <tr>
