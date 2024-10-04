@@ -10,7 +10,7 @@
 <table>
     <tr>
         <td><b>☁️ Platforms & Cloud</b></td>
-        <td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=linux,docker"/></td>
+        <td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=aws,docker,apple,linux,windows"/></td>
     </tr>
     <tr>
         <td><b>📖 Languages</b></td>
