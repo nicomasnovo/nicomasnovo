@@ -36,11 +36,11 @@
     </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomasnovo&show_icons=true&locale=en&layout=compact" alt="nicomasnovo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomasnovo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nicomasnovo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicomasnovo&show_icons=true&locale=en" alt="nicomasnovo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicomasnovo&show_icons=true&locale=en&theme=tokyonight" alt="nicomasnovo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicomasnovo&" alt="nicomasnovo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicomasnovo&theme=tokyonight" alt="nicomasnovo" /></p>
 
 ## Stats
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicomasnovo&theme=tokyonight"></img>
