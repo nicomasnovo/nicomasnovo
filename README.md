@@ -36,9 +36,15 @@
 
 
 ## Stats
-<div><!-- .element: style="display: flex; flex-direction: row;" -->
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomasnovo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nicomasnovo" />
-    <!---<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nicomasnovo&theme=tokyonight&card_height=162" alt="nicomasnovo" />-->
+<table>
+    <tr>
+        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomasnovo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nicomasnovo" />
+              </td>
+    </tr>
+    <tr>
+        <td>
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicomasnovo&theme=tokyonight"/>
-</div>
+        </td>
+    </tr>
+</table>
 
