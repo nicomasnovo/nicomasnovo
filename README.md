@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nico Masnovo</h1>
 <h3 align="center">Sr. Software Engineer Manager</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicomasnovo&theme=tokyonight" alt="nicomasnovo" /></a> </p>
-
 - 🏢 Currently employed at **BCI - MACH**.
 
 <h3 align="left">Connect with me:</h3>
