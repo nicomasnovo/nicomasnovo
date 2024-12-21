@@ -43,10 +43,6 @@
         <td>
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicomasnovo&theme=tokyonight"/>
         </td>
-<td>
-    <img align="left" src="https://github-contributions.vercel.app/api/ghcontributions?username=nicomasnovo"/>
-        </td>
-        
     </tr>
 </table>
 
