@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Nico Masnovo</h1>
 <h3 align="left">Sr. Software Engineer Manager</h3>
+<a href="https://nicomasnovo.com"/>www.nicomasnovo.com</a>
 
 - 🏢 Currently employed at **BCI - MACH**.
 
